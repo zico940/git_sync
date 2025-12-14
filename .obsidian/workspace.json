@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f759d1de61d8d7f7",
+        "id": "154efbc90697994b",
         "type": "tabs",
         "children": [
           {
-            "id": "7d0187bc1e454c97",
+            "id": "90f5d48398938a0f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
             }
           }
         ]
@@ -172,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 757.5
+    "width": 757.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d0187bc1e454c97",
+  "active": "90f5d48398938a0f",
   "lastOpenFiles": [
     "test.md",
     "README.md",
