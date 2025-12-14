@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "b34c497d09697104",
+    "type": "split",
+    "children": [
+      {
+        "id": "414df927b7f5e83d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5613f0dea5ce68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "작업_기록/12월/2025-12-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-24"
+            }
+          },
+          {
+            "id": "bac0472c8e4eae89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "작업_기록/12월/2025-12-25.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-25"
+            }
+          },
+          {
+            "id": "f1f89fbb90b1d7db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          },
+          {
+            "id": "1144051bd12cfc6a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://login.hdel.co.kr/login/jsp/login/acc/signon/?orgssosite=&returnURL=https%3A%2F%2Flogin.hdel.co.kr%2Flogin%2Fjsp%2Flogin%2Facc%2Fsignon%2F%3Forgssosite%3D%26returnURL%3Dhttps%253A%252F%252Ffcm.hdel.co.kr%252Fsecurity%252Fsso.do",
+                "title": "현대엘리베이터 통합 로그인",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "현대엘리베이터 통합 로그인"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb3973e9f10114bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "007b32ddd6c182c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71b61915bd4f3ea4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "5dd29352196db7e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "e32b3794ee37919d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "96f4b378373c7599",
+    "type": "split",
+    "children": [
+      {
+        "id": "069676574ed3e8f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba551889b6a77eb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTL/설명.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "설명 의 백링크"
+            }
+          },
+          {
+            "id": "6d182f18b84d90c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "작업_기록/2025-12-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-12-11 의 나가는 링크"
+            }
+          },
+          {
+            "id": "f82744466f338f25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "8f39c55922d644e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "작업_기록/2025-12-11.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-12-11 의 개요"
+            }
+          },
+          {
+            "id": "ae1ea49fa915dc3f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-kanban:새 보드 만들기": false
+    }
+  },
+  "active": "f1f89fbb90b1d7db",
+  "lastOpenFiles": [
+    "test.md",
+    "작업_기록/12월/2025-12-03.md",
+    "작업_기록/12월/2025-12-02.md",
+    "작업_기록/12월/2025-12-01.md",
+    "계정/계정모음.md",
+    "작업_기록/12월/2025-12-25.md",
+    "기타.md",
+    "노트 이름.md",
+    "작업_기록/12월/2025-12-24.md",
+    "testboard.md",
+    "이름 없는 보드.md",
+    "tttt.md",
+    "HTS_10.1인치.md",
+    "HTL/사용법(HTL).md",
+    "22.md",
+    "test1.md",
+    "작업_기록/12월/2025-12-16.md",
+    "작업_기록/12월/2025-12-15.md",
+    "작업_기록/12월/2025-12-12.md",
+    "작업_기록/12월/2025-12-11.md",
+    "HDI/펌웨어.md",
+    "HDI/부트로더.md",
+    "AI_학습/이너비주얼_ver_1.md",
+    "중요/FCM 사이트.md",
+    "중요/C28287.md",
+    "작업_기록/12월/2025-12-17.md",
+    "작업_기록/12월",
+    "CAN_TO_LAN/관련파일/Pasted image 20251125092622.png",
+    "CAN_TO_LAN/관련파일/Pasted image 20251125092221.png",
+    "CAN_TO_LAN/관련파일/Pasted image 20251125092927.png",
+    "CAN_TO_LAN/관련파일/Pasted image 20251125092828.png",
+    "CAN_TO_LAN/관련파일/Pasted image 20251125092742.png",
+    "CAN_TO_LAN/관련파일/Pasted image 20251125092705.png",
+    "CAN_TO_LAN/관련파일",
+    "황한기/관련파일/C28583_납품완료.png",
+    "황한기/관련파일/25.12.10 H00081NC222 서비스센터 납품 인계 완료(신승윤 기사) (2).jpg",
+    "황한기/관련파일/25.12.10 211352 힐스테이트 송도 센터파크(정택헌 기사(회수).jpg",
+    "황한기/관련파일/25.12.10 우진전장 납품 인계 완료(남주석 사원) (2).jpg",
+    "황한기/관련파일",
+    "황한기/무제",
+    "황한기",
+    "HDI/관련파일",
+    "HDI",
+    "군관리PC_발주서/관련파일/~$거래명세서_WEB-군관리 우진(25년11월25일)마감.xlsx",
+    "무제.base",
+    "프로젝트"
+  ]
+}
