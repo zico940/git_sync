@@ -1,8 +1,8 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
+  "commitMessage": "[조지훈] : {{date}}",
+  "autoCommitMessage": "[조지훈] : {{date}}",
   "commitMessageScript": "",
-  "commitDateFormat": "[조지훈]YYYY-MM-DD HH:mm:ss",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
