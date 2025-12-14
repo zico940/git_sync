@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "414df927b7f5e83d",
+        "id": "f759d1de61d8d7f7",
         "type": "tabs",
         "children": [
           {
-            "id": "ab5613f0dea5ce68",
+            "id": "7d0187bc1e454c97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "작업_기록/12월/2025-12-24.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-24"
-            }
-          },
-          {
-            "id": "bac0472c8e4eae89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "작업_기록/12월/2025-12-25.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-25"
-            }
-          },
-          {
-            "id": "f1f89fbb90b1d7db",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "1144051bd12cfc6a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://login.hdel.co.kr/login/jsp/login/acc/signon/?orgssosite=&returnURL=https%3A%2F%2Flogin.hdel.co.kr%2Flogin%2Fjsp%2Flogin%2Facc%2Fsignon%2F%3Forgssosite%3D%26returnURL%3Dhttps%253A%252F%252Ffcm.hdel.co.kr%252Fsecurity%252Fsso.do",
-                "title": "현대엘리베이터 통합 로그인",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "현대엘리베이터 통합 로그인"
+              "title": "test"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1f89fbb90b1d7db",
+  "active": "7d0187bc1e454c97",
   "lastOpenFiles": [
     "test.md",
     "작업_기록/12월/2025-12-03.md",
